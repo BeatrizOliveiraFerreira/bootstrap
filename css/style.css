@@ -1,0 +1,38 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: #fdd3c2f5;
+}
+
+.APFELSTRUDEL{
+    background-color:#9a9aa1;
+    color:#f0f0f5;
+}
+
+.margin {
+    padding-bottom:50px;
+    padding-top:10px;
+}
+
+.BOLINHO-DE-CHUVA{
+    background-color:#f9fdd6;
+    color: #29241d;
+}
+
+.BOLO{
+    background-color: #f1b0e9;
+    color: #111118;
+}
+
+.PÃO{
+    background-color: #ffcd9e;
+    color: #381b03;
+}
+
+.bg-footer{
+    background-color: #361b18;
+    color: white;
+}
+
